@@ -1,4 +1,4 @@
-URSEG – Utau Recording System Extended Generator. Generate reclist, base oto, comments and other things
+URSEG â€“ Utau Recording System Extended Generator. Generate reclist, base oto, comments and other things
 
 I made it for my russian VCVs reclist. It has no CC, so you need to add this part, if you need them; URSEG is not-so-hard to be changed for any language or recording system. May be some day it becomes absolutely universal, but now you need to change some code for your needs.
 
@@ -8,11 +8,11 @@ You may offer some stuff to make this script more universal, but I can't promise
 Doesn't requires anything but Python 3(.4) itself "record pack", "atlas" and "iroiro" (for replacement lists) folders nearby.
 
 Contains:
-1. main.py – main
-2. utils.py – some universal funtions
-3. variables.py – instead of config file
-4. rules.py – functions that depend on language and/or recording system
+1. main.py â€“ main
+2. utils.py â€“ some universal funtions
+3. variables.py â€“ instead of config file
+4. rules.py â€“ functions that depend on language and/or recording system
 5. short.py - just some abbreviations
-6. iroiro.py – here I generated my replacement and CV-VCV lists. Change it and use for your needs if necessary
+6. iroiro.py â€“ here I generated my replacement and CV-VCV lists for iroiro2. Change it and use for your needs if necessary
 
 Current version is: 0.1
