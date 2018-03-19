@@ -1,0 +1,1442 @@
+aa,a
+yy,i
+y,i
+uu,u
+ee,e
+oo,o
+'i'i,'i
+'i'i,'i
+ee,ei
+e,ei
+aa,oa
+a,oa
+`a,- a
+-a,- a
+`y,- i
+-y,- i
+`u,- u
+-u,- u
+`e,- e
+-e,- e
+`o,- o
+-o,- o
+`'i,- 'i
+-'i,- 'i
+`'i,- 'i
+-'i,- 'i
+`e,- ei
+-e,- ei
+`a,- oa
+-a,- oa
+a`,a R
+a-,a R
+y`,i R
+y-,i R
+u`,u R
+u-,u R
+e`,e R
+e-,e R
+o`,o R
+o-,o R
+e`,e R
+e-,e R
+i`,'i R
+i-,'i R
+e`,ei R
+e-,ei R
+a`,oa R
+a-,oa R
+-k,- k
+-k',- k'
+-g,- g
+-g',- g'
+-s,- s
+-s',- s'
+-z,- z
+-z',- z'
+-t,- t
+-t',- t'
+-d,- d
+-d',- d'
+-f,- f
+-f',- f'
+-v,- v
+-v',- v'
+-p,- p
+-p',- p'
+-b,- b
+-b',- b'
+-l,- l
+-l',- l'
+-m,- m
+-m',- m'
+-n,- n
+-n',- n'
+-r,- r
+-r',- r'
+-h,- h
+-h',- h'
+-w,- sh
+-w',- sh'
+-j,- zh
+-c,- ts
+-~,- y
+-4',- ch
+ak,#DELETE_______________
+ak-,k
+yk,#DELETE_______________
+yk-,k
+uk,#DELETE_______________
+uk-,k
+ek,#DELETE_______________
+ek-,k
+ok,#DELETE_______________
+ok-,k
+ik,#DELETE_______________
+ik-,k
+ek,#DELETE_______________
+ek-,k
+ak,#DELETE_______________
+ak-,k
+ak',#DELETE_______________
+ak'-,k'
+ik',#DELETE_______________
+ik'-,k'
+uk',#DELETE_______________
+uk'-,k'
+ek',#DELETE_______________
+ek'-,k'
+ok',#DELETE_______________
+ok'-,k'
+yk',#DELETE_______________
+yk'-,k'
+ek',#DELETE_______________
+ek'-,k'
+ak',#DELETE_______________
+ak'-,k'
+ag,#DELETE_______________
+ag-,g
+yg,#DELETE_______________
+yg-,g
+ug,#DELETE_______________
+ug-,g
+eg,#DELETE_______________
+eg-,g
+og,#DELETE_______________
+og-,g
+ig,#DELETE_______________
+ig-,g
+eg,#DELETE_______________
+eg-,g
+ag,#DELETE_______________
+ag-,g
+ag',#DELETE_______________
+ag'-,g'
+ig',#DELETE_______________
+ig'-,g'
+ug',#DELETE_______________
+ug'-,g'
+eg',#DELETE_______________
+eg'-,g'
+og',#DELETE_______________
+og'-,g'
+yg',#DELETE_______________
+yg'-,g'
+eg',#DELETE_______________
+eg'-,g'
+ag',#DELETE_______________
+ag'-,g'
+as,#DELETE_______________
+as-,s
+ys,#DELETE_______________
+ys-,s
+us,#DELETE_______________
+us-,s
+es,#DELETE_______________
+es-,s
+os,#DELETE_______________
+os-,s
+is,#DELETE_______________
+is-,s
+es,#DELETE_______________
+es-,s
+as,#DELETE_______________
+as-,s
+as',#DELETE_______________
+as'-,s'
+is',#DELETE_______________
+is'-,s'
+us',#DELETE_______________
+us'-,s'
+es',#DELETE_______________
+es'-,s'
+os',#DELETE_______________
+os'-,s'
+ys',#DELETE_______________
+ys'-,s'
+es',#DELETE_______________
+es'-,s'
+as',#DELETE_______________
+as'-,s'
+az,#DELETE_______________
+az-,z
+yz,#DELETE_______________
+yz-,z
+uz,#DELETE_______________
+uz-,z
+ez,#DELETE_______________
+ez-,z
+oz,#DELETE_______________
+oz-,z
+iz,#DELETE_______________
+iz-,z
+ez,#DELETE_______________
+ez-,z
+az,#DELETE_______________
+az-,z
+az',#DELETE_______________
+az'-,z'
+iz',#DELETE_______________
+iz'-,z'
+uz',#DELETE_______________
+uz'-,z'
+ez',#DELETE_______________
+ez'-,z'
+oz',#DELETE_______________
+oz'-,z'
+yz',#DELETE_______________
+yz'-,z'
+ez',#DELETE_______________
+ez'-,z'
+az',#DELETE_______________
+az'-,z'
+at,#DELETE_______________
+at-,t
+yt,#DELETE_______________
+yt-,t
+ut,#DELETE_______________
+ut-,t
+et,#DELETE_______________
+et-,t
+ot,#DELETE_______________
+ot-,t
+it,#DELETE_______________
+it-,t
+et,#DELETE_______________
+et-,t
+at,#DELETE_______________
+at-,t
+at',#DELETE_______________
+at'-,t'
+it',#DELETE_______________
+it'-,t'
+ut',#DELETE_______________
+ut'-,t'
+et',#DELETE_______________
+et'-,t'
+ot',#DELETE_______________
+ot'-,t'
+yt',#DELETE_______________
+yt'-,t'
+et',#DELETE_______________
+et'-,t'
+at',#DELETE_______________
+at'-,t'
+ad,#DELETE_______________
+ad-,d
+yd,#DELETE_______________
+yd-,d
+ud,#DELETE_______________
+ud-,d
+ed,#DELETE_______________
+ed-,d
+od,#DELETE_______________
+od-,d
+id,#DELETE_______________
+id-,d
+ed,#DELETE_______________
+ed-,d
+ad,#DELETE_______________
+ad-,d
+ad',#DELETE_______________
+ad'-,d'
+id',#DELETE_______________
+id'-,d'
+ud',#DELETE_______________
+ud'-,d'
+ed',#DELETE_______________
+ed'-,d'
+od',#DELETE_______________
+od'-,d'
+yd',#DELETE_______________
+yd'-,d'
+ed',#DELETE_______________
+ed'-,d'
+ad',#DELETE_______________
+ad'-,d'
+af,#DELETE_______________
+af-,f
+yf,#DELETE_______________
+yf-,f
+uf,#DELETE_______________
+uf-,f
+ef,#DELETE_______________
+ef-,f
+of,#DELETE_______________
+of-,f
+if,#DELETE_______________
+if-,f
+ef,#DELETE_______________
+ef-,f
+af,#DELETE_______________
+af-,f
+af',#DELETE_______________
+af'-,f'
+if',#DELETE_______________
+if'-,f'
+uf',#DELETE_______________
+uf'-,f'
+ef',#DELETE_______________
+ef'-,f'
+of',#DELETE_______________
+of'-,f'
+yf',#DELETE_______________
+yf'-,f'
+ef',#DELETE_______________
+ef'-,f'
+af',#DELETE_______________
+af'-,f'
+av,#DELETE_______________
+av-,v
+yv,#DELETE_______________
+yv-,v
+uv,#DELETE_______________
+uv-,v
+ev,#DELETE_______________
+ev-,v
+ov,#DELETE_______________
+ov-,v
+iv,#DELETE_______________
+iv-,v
+ev,#DELETE_______________
+ev-,v
+av,#DELETE_______________
+av-,v
+av',#DELETE_______________
+av'-,v'
+iv',#DELETE_______________
+iv'-,v'
+uv',#DELETE_______________
+uv'-,v'
+ev',#DELETE_______________
+ev'-,v'
+ov',#DELETE_______________
+ov'-,v'
+yv',#DELETE_______________
+yv'-,v'
+ev',#DELETE_______________
+ev'-,v'
+av',#DELETE_______________
+av'-,v'
+ap,#DELETE_______________
+ap-,p
+yp,#DELETE_______________
+yp-,p
+up,#DELETE_______________
+up-,p
+ep,#DELETE_______________
+ep-,p
+op,#DELETE_______________
+op-,p
+ip,#DELETE_______________
+ip-,p
+ep,#DELETE_______________
+ep-,p
+ap,#DELETE_______________
+ap-,p
+ap',#DELETE_______________
+ap'-,p'
+ip',#DELETE_______________
+ip'-,p'
+up',#DELETE_______________
+up'-,p'
+ep',#DELETE_______________
+ep'-,p'
+op',#DELETE_______________
+op'-,p'
+yp',#DELETE_______________
+yp'-,p'
+ep',#DELETE_______________
+ep'-,p'
+ap',#DELETE_______________
+ap'-,p'
+ab,#DELETE_______________
+ab-,b
+yb,#DELETE_______________
+yb-,b
+ub,#DELETE_______________
+ub-,b
+eb,#DELETE_______________
+eb-,b
+ob,#DELETE_______________
+ob-,b
+ib,#DELETE_______________
+ib-,b
+eb,#DELETE_______________
+eb-,b
+ab,#DELETE_______________
+ab-,b
+ab',#DELETE_______________
+ab'-,b'
+ib',#DELETE_______________
+ib'-,b'
+ub',#DELETE_______________
+ub'-,b'
+eb',#DELETE_______________
+eb'-,b'
+ob',#DELETE_______________
+ob'-,b'
+yb',#DELETE_______________
+yb'-,b'
+eb',#DELETE_______________
+eb'-,b'
+ab',#DELETE_______________
+ab'-,b'
+al,#DELETE_______________
+al-,l
+yl,#DELETE_______________
+yl-,l
+ul,#DELETE_______________
+ul-,l
+el,#DELETE_______________
+el-,l
+ol,#DELETE_______________
+ol-,l
+il,#DELETE_______________
+il-,l
+el,#DELETE_______________
+el-,l
+al,#DELETE_______________
+al-,l
+al',#DELETE_______________
+al'-,l'
+il',#DELETE_______________
+il'-,l'
+ul',#DELETE_______________
+ul'-,l'
+el',#DELETE_______________
+el'-,l'
+ol',#DELETE_______________
+ol'-,l'
+yl',#DELETE_______________
+yl'-,l'
+el',#DELETE_______________
+el'-,l'
+al',#DELETE_______________
+al'-,l'
+am,#DELETE_______________
+am-,m
+ym,#DELETE_______________
+ym-,m
+um,#DELETE_______________
+um-,m
+em,#DELETE_______________
+em-,m
+om,#DELETE_______________
+om-,m
+im,#DELETE_______________
+im-,m
+em,#DELETE_______________
+em-,m
+am,#DELETE_______________
+am-,m
+am',#DELETE_______________
+am'-,m'
+im',#DELETE_______________
+im'-,m'
+um',#DELETE_______________
+um'-,m'
+em',#DELETE_______________
+em'-,m'
+om',#DELETE_______________
+om'-,m'
+ym',#DELETE_______________
+ym'-,m'
+em',#DELETE_______________
+em'-,m'
+am',#DELETE_______________
+am'-,m'
+an,#DELETE_______________
+an-,n
+yn,#DELETE_______________
+yn-,n
+un,#DELETE_______________
+un-,n
+en,#DELETE_______________
+en-,n
+on,#DELETE_______________
+on-,n
+in,#DELETE_______________
+in-,n
+en,#DELETE_______________
+en-,n
+an,#DELETE_______________
+an-,n
+an',#DELETE_______________
+an'-,n'
+in',#DELETE_______________
+in'-,n'
+un',#DELETE_______________
+un'-,n'
+en',#DELETE_______________
+en'-,n'
+on',#DELETE_______________
+on'-,n'
+yn',#DELETE_______________
+yn'-,n'
+en',#DELETE_______________
+en'-,n'
+an',#DELETE_______________
+an'-,n'
+ar,#DELETE_______________
+ar-,r
+yr,#DELETE_______________
+yr-,r
+ur,#DELETE_______________
+ur-,r
+er,#DELETE_______________
+er-,r
+or,#DELETE_______________
+or-,r
+ir,#DELETE_______________
+ir-,r
+er,#DELETE_______________
+er-,r
+ar,#DELETE_______________
+ar-,r
+ar',#DELETE_______________
+ar'-,r'
+ir',#DELETE_______________
+ir'-,r'
+ur',#DELETE_______________
+ur'-,r'
+er',#DELETE_______________
+er'-,r'
+or',#DELETE_______________
+or'-,r'
+yr',#DELETE_______________
+yr'-,r'
+er',#DELETE_______________
+er'-,r'
+ar',#DELETE_______________
+ar'-,r'
+ah,#DELETE_______________
+ah-,h
+yh,#DELETE_______________
+yh-,h
+uh,#DELETE_______________
+uh-,h
+eh,#DELETE_______________
+eh-,h
+oh,#DELETE_______________
+oh-,h
+ih,#DELETE_______________
+ih-,h
+eh,#DELETE_______________
+eh-,h
+ah,#DELETE_______________
+ah-,h
+ah',#DELETE_______________
+ah'-,h'
+ih',#DELETE_______________
+ih'-,h'
+uh',#DELETE_______________
+uh'-,h'
+eh',#DELETE_______________
+eh'-,h'
+oh',#DELETE_______________
+oh'-,h'
+yh',#DELETE_______________
+yh'-,h'
+eh',#DELETE_______________
+eh'-,h'
+ah',#DELETE_______________
+ah'-,h'
+aw,#DELETE_______________
+aw-,sh
+yw,#DELETE_______________
+yw-,sh
+uw,#DELETE_______________
+uw-,sh
+ew,#DELETE_______________
+ew-,sh
+ow,#DELETE_______________
+ow-,sh
+iw,#DELETE_______________
+iw-,sh
+ew,#DELETE_______________
+ew-,sh
+aw,#DELETE_______________
+aw-,sh
+aw',#DELETE_______________
+aw'-,sh'
+iw',#DELETE_______________
+iw'-,sh'
+uw',#DELETE_______________
+uw'-,sh'
+ew',#DELETE_______________
+ew'-,sh'
+ow',#DELETE_______________
+ow'-,sh'
+yw',#DELETE_______________
+yw'-,sh'
+ew',#DELETE_______________
+ew'-,sh'
+aw',#DELETE_______________
+aw'-,sh'
+aj,#DELETE_______________
+aj-,zh
+yj,#DELETE_______________
+yj-,zh
+uj,#DELETE_______________
+uj-,zh
+ej,#DELETE_______________
+ej-,zh
+oj,#DELETE_______________
+oj-,zh
+ej,#DELETE_______________
+ej-,zh
+ij,#DELETE_______________
+ij-,zh
+ej,#DELETE_______________
+ej-,zh
+aj,#DELETE_______________
+aj-,zh
+ac,#DELETE_______________
+ac-,ts
+yc,#DELETE_______________
+yc-,ts
+uc,#DELETE_______________
+uc-,ts
+ec,#DELETE_______________
+ec-,ts
+oc,#DELETE_______________
+oc-,ts
+ic,#DELETE_______________
+ic-,ts
+ec,#DELETE_______________
+ec-,ts
+ac,#DELETE_______________
+ac-,ts
+a~,#DELETE_______________
+a~-,y
+i~,#DELETE_______________
+i~-,y
+u~,#DELETE_______________
+u~-,y
+e~,#DELETE_______________
+e~-,y
+o~,#DELETE_______________
+o~-,y
+y~,#DELETE_______________
+y~-,y
+e~,#DELETE_______________
+e~-,y
+a~,#DELETE_______________
+a~-,y
+a4',#DELETE_______________
+a4'-,ch
+i4',#DELETE_______________
+i4'-,ch
+u4',#DELETE_______________
+u4'-,ch
+e4',#DELETE_______________
+e4'-,ch
+o4',#DELETE_______________
+o4'-,ch
+y4',#DELETE_______________
+y4'-,ch
+e4',#DELETE_______________
+e4'-,ch
+a4',#DELETE_______________
+a4'-,ch
+-k~,- k~
+-k'~,- k'~
+-g~,- g~
+-g'~,- g'~
+-s~,- s~
+-s'~,- s'~
+-z~,- z~
+-z'~,- z'~
+-t~,- t~
+-t'~,- t'~
+-d~,- d~
+-d'~,- d'~
+-f~,- f~
+-f'~,- f'~
+-v~,- v~
+-v'~,- v'~
+-p~,- p~
+-p'~,- p'~
+-b~,- b~
+-b'~,- b'~
+-l~,- l~
+-l'~,- l'~
+-m~,- m~
+-m'~,- m'~
+-n~,- n~
+-n'~,- n'~
+-r~,- r~
+-r'~,- r'~
+-h~,- h~
+-h'~,- h'~
+-w~,- sh~
+-w'~,- sh'~
+-j~,- zh~
+-c~,- ts~
+-~~,- y~
+-4'~,- ch~
+w~,sh~
+w'~,sh'~
+j~,zh~
+c~,ts~
+~~,y~
+4'~,ch~
+ky,ki
+ke,kei
+ka,koa
+k'e,k'ei
+k'a,k'oa
+gy,gi
+ge,gei
+ga,goa
+g'e,g'ei
+g'a,g'oa
+sy,si
+se,sei
+sa,soa
+s'e,s'ei
+s'a,s'oa
+zy,zi
+ze,zei
+za,zoa
+z'e,z'ei
+z'a,z'oa
+ty,ti
+te,tei
+ta,toa
+t'e,t'ei
+t'a,t'oa
+dy,di
+de,dei
+da,doa
+d'e,d'ei
+d'a,d'oa
+fy,fi
+fe,fei
+fa,foa
+f'e,f'ei
+f'a,f'oa
+vy,vi
+ve,vei
+va,voa
+v'e,v'ei
+v'a,v'oa
+py,pi
+pe,pei
+pa,poa
+p'e,p'ei
+p'a,p'oa
+by,bi
+be,bei
+ba,boa
+b'e,b'ei
+b'a,b'oa
+ly,li
+le,lei
+la,loa
+l'e,l'ei
+l'a,l'oa
+my,mi
+me,mei
+ma,moa
+m'e,m'ei
+m'a,m'oa
+ny,ni
+ne,nei
+na,noa
+n'e,n'ei
+n'a,n'oa
+ry,ri
+re,rei
+ra,roa
+r'e,r'ei
+r'a,r'oa
+hy,hi
+he,hei
+ha,hoa
+h'e,h'ei
+h'a,h'oa
+wa,sha
+wy,shi
+wu,shu
+we,she
+wo,sho
+we,shei
+wa,shoa
+w'a,sh'a
+w'i,sh'i
+w'u,sh'u
+w'e,sh'e
+w'o,sh'o
+w'e,sh'ei
+w'a,sh'oa
+ja,zha
+jy,zhi
+ju,zhu
+je,zhe
+jo,zho
+je,zhei
+ja,zhoa
+ca,tsa
+cy,tsi
+cu,tsu
+ce,tse
+co,tso
+ce,tsei
+ca,tsoa
+~a,ya
+~y,yi
+~u,yu
+~e,ye
+~o,yo
+~e,yei
+~a,yoa
+4'a,cha
+4'y,chi
+4'u,chu
+4'e,che
+4'o,cho
+4'e,chei
+4'a,choa
+ak~,a k~
+yk~,i k~
+uk~,u k~
+ek~,e k~
+ok~,o k~
+'ik~,'i k~
+ek~,ei k~
+ak~,oa k~
+ak'~,a k'~
+'ik'~,'i k'~
+uk'~,u k'~
+ek'~,e k'~
+ok'~,o k'~
+yk'~,i k'~
+ek'~,ei k'~
+ak'~,oa k'~
+ag~,a g~
+yg~,i g~
+ug~,u g~
+eg~,e g~
+og~,o g~
+'ig~,'i g~
+eg~,ei g~
+ag~,oa g~
+ag'~,a g'~
+'ig'~,'i g'~
+ug'~,u g'~
+eg'~,e g'~
+og'~,o g'~
+yg'~,i g'~
+eg'~,ei g'~
+ag'~,oa g'~
+as~,a s~
+ys~,i s~
+us~,u s~
+es~,e s~
+os~,o s~
+'is~,'i s~
+es~,ei s~
+as~,oa s~
+as'~,a s'~
+'is'~,'i s'~
+us'~,u s'~
+es'~,e s'~
+os'~,o s'~
+ys'~,i s'~
+es'~,ei s'~
+as'~,oa s'~
+az~,a z~
+yz~,i z~
+uz~,u z~
+ez~,e z~
+oz~,o z~
+'iz~,'i z~
+ez~,ei z~
+az~,oa z~
+az'~,a z'~
+'iz'~,'i z'~
+uz'~,u z'~
+ez'~,e z'~
+oz'~,o z'~
+yz'~,i z'~
+ez'~,ei z'~
+az'~,oa z'~
+at~,a t~
+yt~,i t~
+ut~,u t~
+et~,e t~
+ot~,o t~
+'it~,'i t~
+et~,ei t~
+at~,oa t~
+at'~,a t'~
+'it'~,'i t'~
+ut'~,u t'~
+et'~,e t'~
+ot'~,o t'~
+yt'~,i t'~
+et'~,ei t'~
+at'~,oa t'~
+ad~,a d~
+yd~,i d~
+ud~,u d~
+ed~,e d~
+od~,o d~
+'id~,'i d~
+ed~,ei d~
+ad~,oa d~
+ad'~,a d'~
+'id'~,'i d'~
+ud'~,u d'~
+ed'~,e d'~
+od'~,o d'~
+yd'~,i d'~
+ed'~,ei d'~
+ad'~,oa d'~
+af~,a f~
+yf~,i f~
+uf~,u f~
+ef~,e f~
+of~,o f~
+'if~,'i f~
+ef~,ei f~
+af~,oa f~
+af'~,a f'~
+'if'~,'i f'~
+uf'~,u f'~
+ef'~,e f'~
+of'~,o f'~
+yf'~,i f'~
+ef'~,ei f'~
+af'~,oa f'~
+av~,a v~
+yv~,i v~
+uv~,u v~
+ev~,e v~
+ov~,o v~
+'iv~,'i v~
+ev~,ei v~
+av~,oa v~
+av'~,a v'~
+'iv'~,'i v'~
+uv'~,u v'~
+ev'~,e v'~
+ov'~,o v'~
+yv'~,i v'~
+ev'~,ei v'~
+av'~,oa v'~
+ap~,a p~
+yp~,i p~
+up~,u p~
+ep~,e p~
+op~,o p~
+'ip~,'i p~
+ep~,ei p~
+ap~,oa p~
+ap'~,a p'~
+'ip'~,'i p'~
+up'~,u p'~
+ep'~,e p'~
+op'~,o p'~
+yp'~,i p'~
+ep'~,ei p'~
+ap'~,oa p'~
+ab~,a b~
+yb~,i b~
+ub~,u b~
+eb~,e b~
+ob~,o b~
+'ib~,'i b~
+eb~,ei b~
+ab~,oa b~
+ab'~,a b'~
+'ib'~,'i b'~
+ub'~,u b'~
+eb'~,e b'~
+ob'~,o b'~
+yb'~,i b'~
+eb'~,ei b'~
+ab'~,oa b'~
+al~,a l~
+yl~,i l~
+ul~,u l~
+el~,e l~
+ol~,o l~
+'il~,'i l~
+el~,ei l~
+al~,oa l~
+al'~,a l'~
+'il'~,'i l'~
+ul'~,u l'~
+el'~,e l'~
+ol'~,o l'~
+yl'~,i l'~
+el'~,ei l'~
+al'~,oa l'~
+am~,a m~
+ym~,i m~
+um~,u m~
+em~,e m~
+om~,o m~
+'im~,'i m~
+em~,ei m~
+am~,oa m~
+am'~,a m'~
+'im'~,'i m'~
+um'~,u m'~
+em'~,e m'~
+om'~,o m'~
+ym'~,i m'~
+em'~,ei m'~
+am'~,oa m'~
+an~,a n~
+yn~,i n~
+un~,u n~
+en~,e n~
+on~,o n~
+'in~,'i n~
+en~,ei n~
+an~,oa n~
+an'~,a n'~
+'in'~,'i n'~
+un'~,u n'~
+en'~,e n'~
+on'~,o n'~
+yn'~,i n'~
+en'~,ei n'~
+an'~,oa n'~
+ar~,a r~
+yr~,i r~
+ur~,u r~
+er~,e r~
+or~,o r~
+'ir~,'i r~
+er~,ei r~
+ar~,oa r~
+ar'~,a r'~
+'ir'~,'i r'~
+ur'~,u r'~
+er'~,e r'~
+or'~,o r'~
+yr'~,i r'~
+er'~,ei r'~
+ar'~,oa r'~
+ah~,a h~
+yh~,i h~
+uh~,u h~
+eh~,e h~
+oh~,o h~
+'ih~,'i h~
+eh~,ei h~
+ah~,oa h~
+ah'~,a h'~
+'ih'~,'i h'~
+uh'~,u h'~
+eh'~,e h'~
+oh'~,o h'~
+yh'~,i h'~
+eh'~,ei h'~
+ah'~,oa h'~
+aw~,a sh~
+yw~,i sh~
+uw~,u sh~
+ew~,e sh~
+ow~,o sh~
+'iw~,'i sh~
+ew~,ei sh~
+aw~,oa sh~
+aw'~,a sh'~
+'iw'~,'i sh'~
+uw'~,u sh'~
+ew'~,e sh'~
+ow'~,o sh'~
+yw'~,i sh'~
+ew'~,ei sh'~
+aw'~,oa sh'~
+aj~,a zh~
+yj~,i zh~
+uj~,u zh~
+ej~,e zh~
+oj~,o zh~
+ej~,e zh~
+'ij~,'i zh~
+ej~,ei zh~
+aj~,oa zh~
+ac~,a ts~
+yc~,i ts~
+uc~,u ts~
+ec~,e ts~
+oc~,o ts~
+'ic~,'i ts~
+ec~,ei ts~
+ac~,oa ts~
+a~~,a y~
+'i~~,'i y~
+u~~,u y~
+e~~,e y~
+o~~,o y~
+y~~,i y~
+e~~,ei y~
+a~~,oa y~
+a4'~,a ch~
+'i4'~,'i ch~
+u4'~,u ch~
+e4'~,e ch~
+o4'~,o ch~
+y4'~,i ch~
+e4'~,ei ch~
+a4'~,oa ch~
+k~-,k~ R
+k'~-,k'~ R
+g~-,g~ R
+g'~-,g'~ R
+s~-,s~ R
+s'~-,s'~ R
+z~-,z~ R
+z'~-,z'~ R
+t~-,t~ R
+t'~-,t'~ R
+d~-,d~ R
+d'~-,d'~ R
+f~-,f~ R
+f'~-,f'~ R
+v~-,v~ R
+v'~-,v'~ R
+p~-,p~ R
+p'~-,p'~ R
+b~-,b~ R
+b'~-,b'~ R
+l~-,l~ R
+l'~-,l'~ R
+m~-,m~ R
+m'~-,m'~ R
+n~-,n~ R
+n'~-,n'~ R
+r~-,r~ R
+r'~-,r'~ R
+h~-,h~ R
+h'~-,h'~ R
+w~-,sh~ R
+w'~-,sh'~ R
+j~-,zh~ R
+c~-,ts~ R
+~~-,y~ R
+4'~-,ch~ R
+k-,k
+k'-,k'
+g-,g
+g'-,g'
+s-,s
+s'-,s'
+z-,z
+z'-,z'
+t-,t
+t'-,t'
+d-,d
+d'-,d'
+f-,f
+f'-,f'
+v-,v
+v'-,v'
+p-,p
+p'-,p'
+b-,b
+b'-,b'
+l-,l
+l'-,l'
+m-,m
+m'-,m'
+n-,n
+n'-,n'
+r-,r
+r'-,r'
+h-,h
+h'-,h'
+w-,sh
+w,sh
+w'-,sh'
+w',sh'
+j-,zh
+j,zh
+c-,ts
+c,ts
+~-,y
+~,y
+4'-,ch
+4',ch
+-ka,- ka
+-ky,- ki
+-ku,- ku
+-ke,- ke
+-ko,- ko
+-ke,- kei
+-ka,- koa
+-k'a,- k'a
+-k'i,- k'i
+-k'u,- k'u
+-k'e,- k'e
+-k'o,- k'o
+-k'e,- k'ei
+-k'a,- k'oa
+-ga,- ga
+-gy,- gi
+-gu,- gu
+-ge,- ge
+-go,- go
+-ge,- gei
+-ga,- goa
+-g'a,- g'a
+-g'i,- g'i
+-g'u,- g'u
+-g'e,- g'e
+-g'o,- g'o
+-g'e,- g'ei
+-g'a,- g'oa
+-sa,- sa
+-sy,- si
+-su,- su
+-se,- se
+-so,- so
+-se,- sei
+-sa,- soa
+-s'a,- s'a
+-s'i,- s'i
+-s'u,- s'u
+-s'e,- s'e
+-s'o,- s'o
+-s'e,- s'ei
+-s'a,- s'oa
+-za,- za
+-zy,- zi
+-zu,- zu
+-ze,- ze
+-zo,- zo
+-ze,- zei
+-za,- zoa
+-z'a,- z'a
+-z'i,- z'i
+-z'u,- z'u
+-z'e,- z'e
+-z'o,- z'o
+-z'e,- z'ei
+-z'a,- z'oa
+-ta,- ta
+-ty,- ti
+-tu,- tu
+-te,- te
+-to,- to
+-te,- tei
+-ta,- toa
+-t'a,- t'a
+-t'i,- t'i
+-t'u,- t'u
+-t'e,- t'e
+-t'o,- t'o
+-t'e,- t'ei
+-t'a,- t'oa
+-da,- da
+-dy,- di
+-du,- du
+-de,- de
+-do,- do
+-de,- dei
+-da,- doa
+-d'a,- d'a
+-d'i,- d'i
+-d'u,- d'u
+-d'e,- d'e
+-d'o,- d'o
+-d'e,- d'ei
+-d'a,- d'oa
+-fa,- fa
+-fy,- fi
+-fu,- fu
+-fe,- fe
+-fo,- fo
+-fe,- fei
+-fa,- foa
+-f'a,- f'a
+-f'i,- f'i
+-f'u,- f'u
+-f'e,- f'e
+-f'o,- f'o
+-f'e,- f'ei
+-f'a,- f'oa
+-va,- va
+-vy,- vi
+-vu,- vu
+-ve,- ve
+-vo,- vo
+-ve,- vei
+-va,- voa
+-v'a,- v'a
+-v'i,- v'i
+-v'u,- v'u
+-v'e,- v'e
+-v'o,- v'o
+-v'e,- v'ei
+-v'a,- v'oa
+-pa,- pa
+-py,- pi
+-pu,- pu
+-pe,- pe
+-po,- po
+-pe,- pei
+-pa,- poa
+-p'a,- p'a
+-p'i,- p'i
+-p'u,- p'u
+-p'e,- p'e
+-p'o,- p'o
+-p'e,- p'ei
+-p'a,- p'oa
+-ba,- ba
+-by,- bi
+-bu,- bu
+-be,- be
+-bo,- bo
+-be,- bei
+-ba,- boa
+-b'a,- b'a
+-b'i,- b'i
+-b'u,- b'u
+-b'e,- b'e
+-b'o,- b'o
+-b'e,- b'ei
+-b'a,- b'oa
+-la,- la
+-ly,- li
+-lu,- lu
+-le,- le
+-lo,- lo
+-le,- lei
+-la,- loa
+-l'a,- l'a
+-l'i,- l'i
+-l'u,- l'u
+-l'e,- l'e
+-l'o,- l'o
+-l'e,- l'ei
+-l'a,- l'oa
+-ma,- ma
+-my,- mi
+-mu,- mu
+-me,- me
+-mo,- mo
+-me,- mei
+-ma,- moa
+-m'a,- m'a
+-m'i,- m'i
+-m'u,- m'u
+-m'e,- m'e
+-m'o,- m'o
+-m'e,- m'ei
+-m'a,- m'oa
+-na,- na
+-ny,- ni
+-nu,- nu
+-ne,- ne
+-no,- no
+-ne,- nei
+-na,- noa
+-n'a,- n'a
+-n'i,- n'i
+-n'u,- n'u
+-n'e,- n'e
+-n'o,- n'o
+-n'e,- n'ei
+-n'a,- n'oa
+-ra,- ra
+-ry,- ri
+-ru,- ru
+-re,- re
+-ro,- ro
+-re,- rei
+-ra,- roa
+-r'a,- r'a
+-r'i,- r'i
+-r'u,- r'u
+-r'e,- r'e
+-r'o,- r'o
+-r'e,- r'ei
+-r'a,- r'oa
+-ha,- ha
+-hy,- hi
+-hu,- hu
+-he,- he
+-ho,- ho
+-he,- hei
+-ha,- hoa
+-h'a,- h'a
+-h'i,- h'i
+-h'u,- h'u
+-h'e,- h'e
+-h'o,- h'o
+-h'e,- h'ei
+-h'a,- h'oa
+-wa,- sha
+-wy,- shi
+-wu,- shu
+-we,- she
+-wo,- sho
+-we,- shei
+-wa,- shoa
+-w'a,- sh'a
+-w'i,- sh'i
+-w'u,- sh'u
+-w'e,- sh'e
+-w'o,- sh'o
+-w'e,- sh'ei
+-w'a,- sh'oa
+-ja,- zha
+-jy,- zhi
+-ju,- zhu
+-je,- zhe
+-jo,- zho
+-k'i,- k'i
+-k'i,- k'i
+-je,- zhei
+-ja,- zhoa
+-ca,- tsa
+-cy,- tsi
+-cu,- tsu
+-ce,- tse
+-co,- tso
+-ce,- tsei
+-ca,- tsoa
+-~a,- ya
+-~y,- yi
+-~u,- yu
+-~e,- ye
+-~o,- yo
+-~e,- yei
+-~a,- yoa
+-4'a,- cha
+-4'y,- chi
+-4'u,- chu
+-4'e,- che
+-4'o,- cho
+-4'e,- chei
+-4'a,- choa

@@ -1,0 +1,831 @@
+aa,a
+ii,i
+uu,u
+ee,e
+oo,o
+'i'i,'i
+'i'i,'i
+33,ei
+3,ei
+xx,oa
+x,oa
+- 3,- ei
+- x,- oa
+3 R,ei R
+x R,oa R
+- j,- zh
+'a k,#DELETE_______________
+a k,#DELETE_______________
+'i k,#DELETE_______________
+i k,#DELETE_______________
+'u k,#DELETE_______________
+u k,#DELETE_______________
+'e k,#DELETE_______________
+e k,#DELETE_______________
+'o k,#DELETE_______________
+o k,#DELETE_______________
+''i k,#DELETE_______________
+'i k,#DELETE_______________
+'3 k,#DELETE_______________
+3 k,#DELETE_______________
+'x k,#DELETE_______________
+x k,#DELETE_______________
+'a k',#DELETE_______________
+a k',#DELETE_______________
+''i k',#DELETE_______________
+'i k',#DELETE_______________
+'u k',#DELETE_______________
+u k',#DELETE_______________
+'e k',#DELETE_______________
+e k',#DELETE_______________
+'o k',#DELETE_______________
+o k',#DELETE_______________
+'i k',#DELETE_______________
+i k',#DELETE_______________
+'3 k',#DELETE_______________
+3 k',#DELETE_______________
+'x k',#DELETE_______________
+x k',#DELETE_______________
+'a g,#DELETE_______________
+a g,#DELETE_______________
+'i g,#DELETE_______________
+i g,#DELETE_______________
+'u g,#DELETE_______________
+u g,#DELETE_______________
+'e g,#DELETE_______________
+e g,#DELETE_______________
+'o g,#DELETE_______________
+o g,#DELETE_______________
+''i g,#DELETE_______________
+'i g,#DELETE_______________
+'3 g,#DELETE_______________
+3 g,#DELETE_______________
+'x g,#DELETE_______________
+x g,#DELETE_______________
+'a g',#DELETE_______________
+a g',#DELETE_______________
+''i g',#DELETE_______________
+'i g',#DELETE_______________
+'u g',#DELETE_______________
+u g',#DELETE_______________
+'e g',#DELETE_______________
+e g',#DELETE_______________
+'o g',#DELETE_______________
+o g',#DELETE_______________
+'i g',#DELETE_______________
+i g',#DELETE_______________
+'3 g',#DELETE_______________
+3 g',#DELETE_______________
+'x g',#DELETE_______________
+x g',#DELETE_______________
+'a s,#DELETE_______________
+a s,#DELETE_______________
+'i s,#DELETE_______________
+i s,#DELETE_______________
+'u s,#DELETE_______________
+u s,#DELETE_______________
+'e s,#DELETE_______________
+e s,#DELETE_______________
+'o s,#DELETE_______________
+o s,#DELETE_______________
+''i s,#DELETE_______________
+'i s,#DELETE_______________
+'3 s,#DELETE_______________
+3 s,#DELETE_______________
+'x s,#DELETE_______________
+x s,#DELETE_______________
+'a s',#DELETE_______________
+a s',#DELETE_______________
+''i s',#DELETE_______________
+'i s',#DELETE_______________
+'u s',#DELETE_______________
+u s',#DELETE_______________
+'e s',#DELETE_______________
+e s',#DELETE_______________
+'o s',#DELETE_______________
+o s',#DELETE_______________
+'i s',#DELETE_______________
+i s',#DELETE_______________
+'3 s',#DELETE_______________
+3 s',#DELETE_______________
+'x s',#DELETE_______________
+x s',#DELETE_______________
+'a z,#DELETE_______________
+a z,#DELETE_______________
+'i z,#DELETE_______________
+i z,#DELETE_______________
+'u z,#DELETE_______________
+u z,#DELETE_______________
+'e z,#DELETE_______________
+e z,#DELETE_______________
+'o z,#DELETE_______________
+o z,#DELETE_______________
+''i z,#DELETE_______________
+'i z,#DELETE_______________
+'3 z,#DELETE_______________
+3 z,#DELETE_______________
+'x z,#DELETE_______________
+x z,#DELETE_______________
+'a z',#DELETE_______________
+a z',#DELETE_______________
+''i z',#DELETE_______________
+'i z',#DELETE_______________
+'u z',#DELETE_______________
+u z',#DELETE_______________
+'e z',#DELETE_______________
+e z',#DELETE_______________
+'o z',#DELETE_______________
+o z',#DELETE_______________
+'i z',#DELETE_______________
+i z',#DELETE_______________
+'3 z',#DELETE_______________
+3 z',#DELETE_______________
+'x z',#DELETE_______________
+x z',#DELETE_______________
+'a t,#DELETE_______________
+a t,#DELETE_______________
+'i t,#DELETE_______________
+i t,#DELETE_______________
+'u t,#DELETE_______________
+u t,#DELETE_______________
+'e t,#DELETE_______________
+e t,#DELETE_______________
+'o t,#DELETE_______________
+o t,#DELETE_______________
+''i t,#DELETE_______________
+'i t,#DELETE_______________
+'3 t,#DELETE_______________
+3 t,#DELETE_______________
+'x t,#DELETE_______________
+x t,#DELETE_______________
+'a t',#DELETE_______________
+a t',#DELETE_______________
+''i t',#DELETE_______________
+'i t',#DELETE_______________
+'u t',#DELETE_______________
+u t',#DELETE_______________
+'e t',#DELETE_______________
+e t',#DELETE_______________
+'o t',#DELETE_______________
+o t',#DELETE_______________
+'i t',#DELETE_______________
+i t',#DELETE_______________
+'3 t',#DELETE_______________
+3 t',#DELETE_______________
+'x t',#DELETE_______________
+x t',#DELETE_______________
+'a d,#DELETE_______________
+a d,#DELETE_______________
+'i d,#DELETE_______________
+i d,#DELETE_______________
+'u d,#DELETE_______________
+u d,#DELETE_______________
+'e d,#DELETE_______________
+e d,#DELETE_______________
+'o d,#DELETE_______________
+o d,#DELETE_______________
+''i d,#DELETE_______________
+'i d,#DELETE_______________
+'3 d,#DELETE_______________
+3 d,#DELETE_______________
+'x d,#DELETE_______________
+x d,#DELETE_______________
+'a d',#DELETE_______________
+a d',#DELETE_______________
+''i d',#DELETE_______________
+'i d',#DELETE_______________
+'u d',#DELETE_______________
+u d',#DELETE_______________
+'e d',#DELETE_______________
+e d',#DELETE_______________
+'o d',#DELETE_______________
+o d',#DELETE_______________
+'i d',#DELETE_______________
+i d',#DELETE_______________
+'3 d',#DELETE_______________
+3 d',#DELETE_______________
+'x d',#DELETE_______________
+x d',#DELETE_______________
+'a f,#DELETE_______________
+a f,#DELETE_______________
+'i f,#DELETE_______________
+i f,#DELETE_______________
+'u f,#DELETE_______________
+u f,#DELETE_______________
+'e f,#DELETE_______________
+e f,#DELETE_______________
+'o f,#DELETE_______________
+o f,#DELETE_______________
+''i f,#DELETE_______________
+'i f,#DELETE_______________
+'3 f,#DELETE_______________
+3 f,#DELETE_______________
+'x f,#DELETE_______________
+x f,#DELETE_______________
+'a f',#DELETE_______________
+a f',#DELETE_______________
+''i f',#DELETE_______________
+'i f',#DELETE_______________
+'u f',#DELETE_______________
+u f',#DELETE_______________
+'e f',#DELETE_______________
+e f',#DELETE_______________
+'o f',#DELETE_______________
+o f',#DELETE_______________
+'i f',#DELETE_______________
+i f',#DELETE_______________
+'3 f',#DELETE_______________
+3 f',#DELETE_______________
+'x f',#DELETE_______________
+x f',#DELETE_______________
+'a v,#DELETE_______________
+a v,#DELETE_______________
+'i v,#DELETE_______________
+i v,#DELETE_______________
+'u v,#DELETE_______________
+u v,#DELETE_______________
+'e v,#DELETE_______________
+e v,#DELETE_______________
+'o v,#DELETE_______________
+o v,#DELETE_______________
+''i v,#DELETE_______________
+'i v,#DELETE_______________
+'3 v,#DELETE_______________
+3 v,#DELETE_______________
+'x v,#DELETE_______________
+x v,#DELETE_______________
+'a v',#DELETE_______________
+a v',#DELETE_______________
+''i v',#DELETE_______________
+'i v',#DELETE_______________
+'u v',#DELETE_______________
+u v',#DELETE_______________
+'e v',#DELETE_______________
+e v',#DELETE_______________
+'o v',#DELETE_______________
+o v',#DELETE_______________
+'i v',#DELETE_______________
+i v',#DELETE_______________
+'3 v',#DELETE_______________
+3 v',#DELETE_______________
+'x v',#DELETE_______________
+x v',#DELETE_______________
+'a p,#DELETE_______________
+a p,#DELETE_______________
+'i p,#DELETE_______________
+i p,#DELETE_______________
+'u p,#DELETE_______________
+u p,#DELETE_______________
+'e p,#DELETE_______________
+e p,#DELETE_______________
+'o p,#DELETE_______________
+o p,#DELETE_______________
+''i p,#DELETE_______________
+'i p,#DELETE_______________
+'3 p,#DELETE_______________
+3 p,#DELETE_______________
+'x p,#DELETE_______________
+x p,#DELETE_______________
+'a p',#DELETE_______________
+a p',#DELETE_______________
+''i p',#DELETE_______________
+'i p',#DELETE_______________
+'u p',#DELETE_______________
+u p',#DELETE_______________
+'e p',#DELETE_______________
+e p',#DELETE_______________
+'o p',#DELETE_______________
+o p',#DELETE_______________
+'i p',#DELETE_______________
+i p',#DELETE_______________
+'3 p',#DELETE_______________
+3 p',#DELETE_______________
+'x p',#DELETE_______________
+x p',#DELETE_______________
+'a b,#DELETE_______________
+a b,#DELETE_______________
+'i b,#DELETE_______________
+i b,#DELETE_______________
+'u b,#DELETE_______________
+u b,#DELETE_______________
+'e b,#DELETE_______________
+e b,#DELETE_______________
+'o b,#DELETE_______________
+o b,#DELETE_______________
+''i b,#DELETE_______________
+'i b,#DELETE_______________
+'3 b,#DELETE_______________
+3 b,#DELETE_______________
+'x b,#DELETE_______________
+x b,#DELETE_______________
+'a b',#DELETE_______________
+a b',#DELETE_______________
+''i b',#DELETE_______________
+'i b',#DELETE_______________
+'u b',#DELETE_______________
+u b',#DELETE_______________
+'e b',#DELETE_______________
+e b',#DELETE_______________
+'o b',#DELETE_______________
+o b',#DELETE_______________
+'i b',#DELETE_______________
+i b',#DELETE_______________
+'3 b',#DELETE_______________
+3 b',#DELETE_______________
+'x b',#DELETE_______________
+x b',#DELETE_______________
+'a l,#DELETE_______________
+a l,#DELETE_______________
+'i l,#DELETE_______________
+i l,#DELETE_______________
+'u l,#DELETE_______________
+u l,#DELETE_______________
+'e l,#DELETE_______________
+e l,#DELETE_______________
+'o l,#DELETE_______________
+o l,#DELETE_______________
+''i l,#DELETE_______________
+'i l,#DELETE_______________
+'3 l,#DELETE_______________
+3 l,#DELETE_______________
+'x l,#DELETE_______________
+x l,#DELETE_______________
+'a l',#DELETE_______________
+a l',#DELETE_______________
+''i l',#DELETE_______________
+'i l',#DELETE_______________
+'u l',#DELETE_______________
+u l',#DELETE_______________
+'e l',#DELETE_______________
+e l',#DELETE_______________
+'o l',#DELETE_______________
+o l',#DELETE_______________
+'i l',#DELETE_______________
+i l',#DELETE_______________
+'3 l',#DELETE_______________
+3 l',#DELETE_______________
+'x l',#DELETE_______________
+x l',#DELETE_______________
+'a m,#DELETE_______________
+a m,#DELETE_______________
+'i m,#DELETE_______________
+i m,#DELETE_______________
+'u m,#DELETE_______________
+u m,#DELETE_______________
+'e m,#DELETE_______________
+e m,#DELETE_______________
+'o m,#DELETE_______________
+o m,#DELETE_______________
+''i m,#DELETE_______________
+'i m,#DELETE_______________
+'3 m,#DELETE_______________
+3 m,#DELETE_______________
+'x m,#DELETE_______________
+x m,#DELETE_______________
+'a m',#DELETE_______________
+a m',#DELETE_______________
+''i m',#DELETE_______________
+'i m',#DELETE_______________
+'u m',#DELETE_______________
+u m',#DELETE_______________
+'e m',#DELETE_______________
+e m',#DELETE_______________
+'o m',#DELETE_______________
+o m',#DELETE_______________
+'i m',#DELETE_______________
+i m',#DELETE_______________
+'3 m',#DELETE_______________
+3 m',#DELETE_______________
+'x m',#DELETE_______________
+x m',#DELETE_______________
+'a n,#DELETE_______________
+a n,#DELETE_______________
+'i n,#DELETE_______________
+i n,#DELETE_______________
+'u n,#DELETE_______________
+u n,#DELETE_______________
+'e n,#DELETE_______________
+e n,#DELETE_______________
+'o n,#DELETE_______________
+o n,#DELETE_______________
+''i n,#DELETE_______________
+'i n,#DELETE_______________
+'3 n,#DELETE_______________
+3 n,#DELETE_______________
+'x n,#DELETE_______________
+x n,#DELETE_______________
+'a n',#DELETE_______________
+a n',#DELETE_______________
+''i n',#DELETE_______________
+'i n',#DELETE_______________
+'u n',#DELETE_______________
+u n',#DELETE_______________
+'e n',#DELETE_______________
+e n',#DELETE_______________
+'o n',#DELETE_______________
+o n',#DELETE_______________
+'i n',#DELETE_______________
+i n',#DELETE_______________
+'3 n',#DELETE_______________
+3 n',#DELETE_______________
+'x n',#DELETE_______________
+x n',#DELETE_______________
+'a r,#DELETE_______________
+a r,#DELETE_______________
+'i r,#DELETE_______________
+i r,#DELETE_______________
+'u r,#DELETE_______________
+u r,#DELETE_______________
+'e r,#DELETE_______________
+e r,#DELETE_______________
+'o r,#DELETE_______________
+o r,#DELETE_______________
+''i r,#DELETE_______________
+'i r,#DELETE_______________
+'3 r,#DELETE_______________
+3 r,#DELETE_______________
+'x r,#DELETE_______________
+x r,#DELETE_______________
+'a r',#DELETE_______________
+a r',#DELETE_______________
+''i r',#DELETE_______________
+'i r',#DELETE_______________
+'u r',#DELETE_______________
+u r',#DELETE_______________
+'e r',#DELETE_______________
+e r',#DELETE_______________
+'o r',#DELETE_______________
+o r',#DELETE_______________
+'i r',#DELETE_______________
+i r',#DELETE_______________
+'3 r',#DELETE_______________
+3 r',#DELETE_______________
+'x r',#DELETE_______________
+x r',#DELETE_______________
+'a h,#DELETE_______________
+a h,#DELETE_______________
+'i h,#DELETE_______________
+i h,#DELETE_______________
+'u h,#DELETE_______________
+u h,#DELETE_______________
+'e h,#DELETE_______________
+e h,#DELETE_______________
+'o h,#DELETE_______________
+o h,#DELETE_______________
+''i h,#DELETE_______________
+'i h,#DELETE_______________
+'3 h,#DELETE_______________
+3 h,#DELETE_______________
+'x h,#DELETE_______________
+x h,#DELETE_______________
+'a h',#DELETE_______________
+a h',#DELETE_______________
+''i h',#DELETE_______________
+'i h',#DELETE_______________
+'u h',#DELETE_______________
+u h',#DELETE_______________
+'e h',#DELETE_______________
+e h',#DELETE_______________
+'o h',#DELETE_______________
+o h',#DELETE_______________
+'i h',#DELETE_______________
+i h',#DELETE_______________
+'3 h',#DELETE_______________
+3 h',#DELETE_______________
+'x h',#DELETE_______________
+x h',#DELETE_______________
+'a sh,#DELETE_______________
+a sh,#DELETE_______________
+'i sh,#DELETE_______________
+i sh,#DELETE_______________
+'u sh,#DELETE_______________
+u sh,#DELETE_______________
+'e sh,#DELETE_______________
+e sh,#DELETE_______________
+'o sh,#DELETE_______________
+o sh,#DELETE_______________
+''i sh,#DELETE_______________
+'i sh,#DELETE_______________
+'3 sh,#DELETE_______________
+3 sh,#DELETE_______________
+'x sh,#DELETE_______________
+x sh,#DELETE_______________
+'a sh',#DELETE_______________
+a sh',#DELETE_______________
+''i sh',#DELETE_______________
+'i sh',#DELETE_______________
+'u sh',#DELETE_______________
+u sh',#DELETE_______________
+'e sh',#DELETE_______________
+e sh',#DELETE_______________
+'o sh',#DELETE_______________
+o sh',#DELETE_______________
+'i sh',#DELETE_______________
+i sh',#DELETE_______________
+'3 sh',#DELETE_______________
+3 sh',#DELETE_______________
+'x sh',#DELETE_______________
+x sh',#DELETE_______________
+'a j,#DELETE_______________
+a j,#DELETE_______________
+'i j,#DELETE_______________
+i j,#DELETE_______________
+'u j,#DELETE_______________
+u j,#DELETE_______________
+'e j,#DELETE_______________
+e j,#DELETE_______________
+'o j,#DELETE_______________
+o j,#DELETE_______________
+'e j,#DELETE_______________
+e j,#DELETE_______________
+''i j,#DELETE_______________
+'i j,#DELETE_______________
+'3 j,#DELETE_______________
+3 j,#DELETE_______________
+'x j,#DELETE_______________
+x j,#DELETE_______________
+'a ts,#DELETE_______________
+a ts,#DELETE_______________
+'i ts,#DELETE_______________
+i ts,#DELETE_______________
+'u ts,#DELETE_______________
+u ts,#DELETE_______________
+'e ts,#DELETE_______________
+e ts,#DELETE_______________
+'o ts,#DELETE_______________
+o ts,#DELETE_______________
+''i ts,#DELETE_______________
+'i ts,#DELETE_______________
+'3 ts,#DELETE_______________
+3 ts,#DELETE_______________
+'x ts,#DELETE_______________
+x ts,#DELETE_______________
+'a y,#DELETE_______________
+a y,#DELETE_______________
+''i y,#DELETE_______________
+'i y,#DELETE_______________
+'u y,#DELETE_______________
+u y,#DELETE_______________
+'e y,#DELETE_______________
+e y,#DELETE_______________
+'o y,#DELETE_______________
+o y,#DELETE_______________
+'i y,#DELETE_______________
+i y,#DELETE_______________
+'3 y,#DELETE_______________
+3 y,#DELETE_______________
+'x y,#DELETE_______________
+x y,#DELETE_______________
+'a ch,#DELETE_______________
+a ch,#DELETE_______________
+''i ch,#DELETE_______________
+'i ch,#DELETE_______________
+'u ch,#DELETE_______________
+u ch,#DELETE_______________
+'e ch,#DELETE_______________
+e ch,#DELETE_______________
+'o ch,#DELETE_______________
+o ch,#DELETE_______________
+'i ch,#DELETE_______________
+i ch,#DELETE_______________
+'3 ch,#DELETE_______________
+3 ch,#DELETE_______________
+'x ch,#DELETE_______________
+x ch,#DELETE_______________
+- j~,- zh~
+j~,zh~
+k3,kei
+kx,koa
+k'3,k'ei
+k'x,k'oa
+g3,gei
+gx,goa
+g'3,g'ei
+g'x,g'oa
+s3,sei
+sx,soa
+s'3,s'ei
+s'x,s'oa
+z3,zei
+zx,zoa
+z'3,z'ei
+z'x,z'oa
+t3,tei
+tx,toa
+t'3,t'ei
+t'x,t'oa
+d3,dei
+dx,doa
+d'3,d'ei
+d'x,d'oa
+f3,fei
+fx,foa
+f'3,f'ei
+f'x,f'oa
+v3,vei
+vx,voa
+v'3,v'ei
+v'x,v'oa
+p3,pei
+px,poa
+p'3,p'ei
+p'x,p'oa
+b3,bei
+bx,boa
+b'3,b'ei
+b'x,b'oa
+l3,lei
+lx,loa
+l'3,l'ei
+l'x,l'oa
+m3,mei
+mx,moa
+m'3,m'ei
+m'x,m'oa
+n3,nei
+nx,noa
+n'3,n'ei
+n'x,n'oa
+r3,rei
+rx,roa
+r'3,r'ei
+r'x,r'oa
+h3,hei
+hx,hoa
+h'3,h'ei
+h'x,h'oa
+sh3,shei
+shx,shoa
+sh'3,sh'ei
+sh'x,sh'oa
+ja,zha
+ji,zhi
+ju,zhu
+je,zhe
+jo,zho
+j3,zhei
+jx,zhoa
+ts3,tsei
+tsx,tsoa
+y3,yei
+yx,yoa
+ch3,chei
+chx,choa
+3 k~,ei k~
+x k~,oa k~
+3 k'~,ei k'~
+x k'~,oa k'~
+3 g~,ei g~
+x g~,oa g~
+3 g'~,ei g'~
+x g'~,oa g'~
+3 s~,ei s~
+x s~,oa s~
+3 s'~,ei s'~
+x s'~,oa s'~
+3 z~,ei z~
+x z~,oa z~
+3 z'~,ei z'~
+x z'~,oa z'~
+3 t~,ei t~
+x t~,oa t~
+3 t'~,ei t'~
+x t'~,oa t'~
+3 d~,ei d~
+x d~,oa d~
+3 d'~,ei d'~
+x d'~,oa d'~
+3 f~,ei f~
+x f~,oa f~
+3 f'~,ei f'~
+x f'~,oa f'~
+3 v~,ei v~
+x v~,oa v~
+3 v'~,ei v'~
+x v'~,oa v'~
+3 p~,ei p~
+x p~,oa p~
+3 p'~,ei p'~
+x p'~,oa p'~
+3 b~,ei b~
+x b~,oa b~
+3 b'~,ei b'~
+x b'~,oa b'~
+3 l~,ei l~
+x l~,oa l~
+3 l'~,ei l'~
+x l'~,oa l'~
+3 m~,ei m~
+x m~,oa m~
+3 m'~,ei m'~
+x m'~,oa m'~
+3 n~,ei n~
+x n~,oa n~
+3 n'~,ei n'~
+x n'~,oa n'~
+3 r~,ei r~
+x r~,oa r~
+3 r'~,ei r'~
+x r'~,oa r'~
+3 h~,ei h~
+x h~,oa h~
+3 h'~,ei h'~
+x h'~,oa h'~
+3 sh~,ei sh~
+x sh~,oa sh~
+3 sh'~,ei sh'~
+x sh'~,oa sh'~
+a j~,a zh~
+i j~,i zh~
+u j~,u zh~
+e j~,e zh~
+o j~,o zh~
+e j~,e zh~
+'i j~,'i zh~
+3 j~,ei zh~
+x j~,oa zh~
+3 ts~,ei ts~
+x ts~,oa ts~
+3 y~,ei y~
+x y~,oa y~
+3 ch~,ei ch~
+x ch~,oa ch~
+j~ R,zh~ R
+j,zh
+- k3,- kei
+- kx,- koa
+- k'3,- k'ei
+- k'x,- k'oa
+- g3,- gei
+- gx,- goa
+- g'3,- g'ei
+- g'x,- g'oa
+- s3,- sei
+- sx,- soa
+- s'3,- s'ei
+- s'x,- s'oa
+- z3,- zei
+- zx,- zoa
+- z'3,- z'ei
+- z'x,- z'oa
+- t3,- tei
+- tx,- toa
+- t'3,- t'ei
+- t'x,- t'oa
+- d3,- dei
+- dx,- doa
+- d'3,- d'ei
+- d'x,- d'oa
+- f3,- fei
+- fx,- foa
+- f'3,- f'ei
+- f'x,- f'oa
+- v3,- vei
+- vx,- voa
+- v'3,- v'ei
+- v'x,- v'oa
+- p3,- pei
+- px,- poa
+- p'3,- p'ei
+- p'x,- p'oa
+- b3,- bei
+- bx,- boa
+- b'3,- b'ei
+- b'x,- b'oa
+- l3,- lei
+- lx,- loa
+- l'3,- l'ei
+- l'x,- l'oa
+- m3,- mei
+- mx,- moa
+- m'3,- m'ei
+- m'x,- m'oa
+- n3,- nei
+- nx,- noa
+- n'3,- n'ei
+- n'x,- n'oa
+- r3,- rei
+- rx,- roa
+- r'3,- r'ei
+- r'x,- r'oa
+- h3,- hei
+- hx,- hoa
+- h'3,- h'ei
+- h'x,- h'oa
+- sh3,- shei
+- shx,- shoa
+- sh'3,- sh'ei
+- sh'x,- sh'oa
+- ja,- zha
+- ji,- zhi
+- ju,- zhu
+- je,- zhe
+- jo,- zho
+- j3,- zhei
+- jx,- zhoa
+- ts3,- tsei
+- tsx,- tsoa
+- y3,- yei
+- yx,- yoa
+- ch3,- chei
+- chx,- choa

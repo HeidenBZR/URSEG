@@ -1,0 +1,25 @@
+a rr,a r
+a a R,a R
+a -,a R
+i rr,i r
+i i R,i R
+i -,i R
+u rr,u r
+u u R,u R
+u -,u R
+e rr,e r
+e e R,e R
+e -,e R
+o rr,o r
+o o R,o R
+o -,o R
+ei rr,ei r
+ei ei R,ei R
+ei -,ei R
+oa rr,oa r
+oa oa R,oa R
+oa -,oa R
+'i rr,'i r
+'i 'i R,'i R
+'i -,'i R
+- rr,- r
